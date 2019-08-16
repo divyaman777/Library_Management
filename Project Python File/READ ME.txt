@@ -1,0 +1,10 @@
+first install the required modules==firebase,requests
+suggested to use .exe file
+
+TEST ID FOR STUDENT PORTAL
+ADMISSION NUMBER::2018bcs1013
+PASSWORD::1234
+
+FOR TEST IN LIBRARY PORTAL
+USER NAME::divyaman
+PASSWORD:: 1234
